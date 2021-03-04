@@ -1,0 +1,16 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "description": "google translate app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "yuki",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^11.3.0"
+  },
+  "keywords": []
+}
